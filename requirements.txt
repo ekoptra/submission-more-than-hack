@@ -1,0 +1,6 @@
+# Exact versions used to produce the submission (Python 3.12.2).
+numpy==2.5.4
+pandas==3.1.0
+opencv-python-headless==5.0.0.93
+scikit-learn==1.9.1
+joblib==1.6.0
